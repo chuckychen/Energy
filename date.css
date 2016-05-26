@@ -16,16 +16,18 @@
 }
 
 .tt {
-
-display: inline-block;
-
-    padding-left:30%;
+position: absolute;
+left:40%;
     text-align:justify;
-margin-left:20%;
-padding-top:20%;
+    top:20%;
+
+    margin-right: 3%;
+    padding:0;
 
 
-
+}
+.tt h1{
+        font-weight: 600;
 }
 .hrh{
     display: block;
